@@ -15,7 +15,7 @@ touch Labyrint/Skatekammer1/Gullmynter.txt
 touch Labyrint/Gang1/Skattkammer2/Diamanter.txt
 touch Labyrint/Gang2/Felle/Felle.txt
 
-# Gjør scriptet executable «chmod +x labyrint»
+# Gjør scriptet executable «chmod +x *.sh» eller "chmod +x labyrint.sh"
 # Når du er ferdig skriv «./labyrint.sh»
 
 
